@@ -21,7 +21,7 @@ const features = [
   {
     icon: <SmartToyIcon fontSize="large" />,
     title: "Enterprise LLM Generation",
-    desc: "Generate structured, compliant responses using Cohere (or your preferred enterprise LLM) with built-in audit trails.",
+    desc: "Generate structured, compliant responses using Cohere a security first enterprise LLM.",
   },
 ];
 

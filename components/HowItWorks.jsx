@@ -14,8 +14,8 @@ const steps = [
     desc: "Procura analyzes questions, finds answers in your Drive/OneDrive, and suggests best-fit replies.",
   },
   {
-    title: "Review & Approve",
-    desc: "Collaborate with SMEs, edit content, and approve the final responses with auditable change logs.",
+    title: "Built for The Construction Industry",
+    desc: "Sync with the most popular estimation software and CRM tools to ensure accurate, up-to-date responses.",
   },
   {
     title: "Export & Submit",
