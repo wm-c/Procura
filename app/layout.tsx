@@ -10,7 +10,7 @@ export const metadata = {
   description: "Procura automates RFP responses and integrates with Google Drive & OneDrive.",
 };
 
-export default function RootLayout({ children }) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
       <head />
