@@ -22,7 +22,7 @@ export default function Hero() {
               mb: 2,
             }}
           >
-            Procura — RFP responses, automated, accurate, auditable.
+            Procura — RFP Response Automation for the Construction Industry.
           </Typography>
 
           <Typography

@@ -8,6 +8,7 @@ import Security from "../components/Security";
 import Integrations from "../components/Integrations";
 import PricingCTA from "../components/PricingCTA";
 import Footer from "../components/Footer";
+import PricingSection from "../components/PricingSection";
 
 export default function Page() {
   return (
@@ -21,12 +22,13 @@ export default function Page() {
         <HowItWorks />
       </Box>
 
-      <Box sx={{ pt: 12 }}>
-        <Security />
-      </Box>
 
       <Box sx={{ pt: 10 }}>
         <Integrations />
+      </Box>
+
+      <Box sx={{ pt: 10 }}>
+        <PricingSection/>
       </Box>
 
       <Box sx={{ pt: 10 }}>
