@@ -5,7 +5,7 @@ import { Grid, Box, Typography, Paper } from "@mui/material";
 import { motion } from "framer-motion";
 import ArticleIcon from "@mui/icons-material/Article";
 import CloudSyncIcon from "@mui/icons-material/CloudSync";
-import SmartToyIcon from "@mui/icons-material/SmartToy";
+import ConstructionIcon from "@mui/icons-material/Construction";
 
 const features = [
   {
@@ -19,9 +19,9 @@ const features = [
     desc: "Seamlessly connect Google Drive and OneDrive to surface authoritative content when generating responses.",
   },
   {
-    icon: <SmartToyIcon fontSize="large" />,
+    icon: <ConstructionIcon fontSize="large" />,
     title: "Integrations with Popular Construction Software",
-    desc: "Access even more of you information to help make your RFP responses even smarter.",
+    desc: "Access even more of your information to help make your RFP responses even smarter.",
   },
 ];
 
