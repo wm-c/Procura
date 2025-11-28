@@ -20,8 +20,8 @@ const features = [
   },
   {
     icon: <SmartToyIcon fontSize="large" />,
-    title: "Enterprise LLM Generation",
-    desc: "Generate structured, compliant responses using Cohere a security first enterprise LLM.",
+    title: "Integrations with Popular Construction Software",
+    desc: "Access even more of you information to help make your RFP responses even smarter.",
   },
 ];
 

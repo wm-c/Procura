@@ -17,14 +17,14 @@ export default function PricingSection() {
     {
       title: "Professional",
       price: "$200",
-      period: "per year • up to 15 RFPs",
+      period: "per month • up to 15 RFPs",
       description: "Ideal for growing teams that want predictable spend and automation.",
       highlighted: true, // Highlighted middle tier
     },
     {
       title: "Enterprise",
       price: "$600",
-      period: "per year • unlimited RFPs",
+      period: "per month • unlimited RFPs",
       description: "Unlimited scale, maximum efficiency, and complete workflow automation.",
       highlighted: false,
     },
